@@ -1,0 +1,108 @@
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojAssemblyReference.cache
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormCalculadora.resources
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.cache
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.CoreCompileInputs.cache
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+E:\Usuario\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojAssemblyReference.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.CoreCompileInputs.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormRadio.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\C# WINDOWS FORM\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojAssemblyReference.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.CoreCompileInputs.cache
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+F:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+G:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+D:\Info - técnico\2° Semestre\DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.AssemblyReference.cache
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormBotoes.resources
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form3.resources
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.FormNumeros.resources
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.CalculadoraRadio.resources
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.cache
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.CoreCompileInputs.cache
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+D:\Info - técnico\2° Semestre\DS\Trabalhos DS\C# WINDOWS FORM 3\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
